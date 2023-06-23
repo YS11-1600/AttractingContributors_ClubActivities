@@ -27,7 +27,7 @@ Goal: I want contributors to help me list popular programming languages and why 
 - C++ : 1
   - Tomoya Suzuki: it can help us to write very fast programs.
 - C : 1
-  - YS11-1600: None 
+  - YS11-1600: it is like a cradle.
 - bash : 1
   - Hideki Hayashi: it is helpful to use Linux OS
   - Tomoya Suzuki: it can help us to write very fast programs.
