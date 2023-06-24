@@ -11,4 +11,7 @@ Tell me about your favorite club activity (that you would like to join)!
 - Kyudo  
 - Football
 - Volleyball
+- Field Hockey
+- Swimming
+- Rugby!!!
 - Soccer
